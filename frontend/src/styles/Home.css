@@ -1,0 +1,12 @@
+.home-container {
+    margin-top: 20px;
+  }
+.custom-carousel-caption {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+}
+.mt-3 {
+  margin-top: 1rem;
+}

@@ -1,0 +1,27 @@
+.register-box {
+    border-radius: 8px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+  
+.hover-button {
+    transition: all 0.3s ease-in-out;
+  }
+  
+.hover-button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);}
+  
+.hover-link {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .hover-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+    
+  }
+  
